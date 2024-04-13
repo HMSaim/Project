@@ -387,11 +387,10 @@ font-weight: 500;
     height: 10vh;
     width: 100%;
     display: flex;
-flex-wrap: nowrap;
 overflow-x: hidden;
 overflow-y: hidden;
 }
-#marque #move{
+ #move{
     display: flex;
     align-items: center;
     flex-shrink: 0;
@@ -567,12 +566,12 @@ width: 15.5%;
 #alpha h5{
     font-size: 1.6vw;
     font-weight: 600;
-margin-right: 2vw;
+margin-right: 1.5vw;
 }
 #alpha h6{
     padding:1vw 1.3vw ;
     font-size: 1.6vw;
-    font-weight: 600;
+    font-weight: 500;
 
 }
 
@@ -661,12 +660,12 @@ margin-right: 2vw;
 
         #marque{
              height: 8vh;
-            width: 180%;
+            width: 100%;
          
         }
-        #marque #move{
+         #move{
           gap: 3.5vw;
-        width: 200%;
+        width: 370%;
         }
         
         footer{
@@ -709,7 +708,7 @@ margin-right: 2vw;
             line-height: 4vw;
         }
         #logoes{
-            height: 10%;
+            height: 13%;
         }
         .ri-facebook-line{
             font-size: 4vw;
